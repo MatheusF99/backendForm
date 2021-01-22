@@ -16,8 +16,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "install": "^0.13.0",
-    "node-pre-gyp": "^0.17.0",
-    "sqlite": "^4.0.19",
     "typeorm": "^0.2.30"
   }
 }
