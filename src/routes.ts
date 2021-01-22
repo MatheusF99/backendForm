@@ -7,5 +7,10 @@ routes.get('/', ( req, res )=>{
         res.json({message: 'hello world'})
     )
 })
+routes.post('/usuarios', ( req, res )=>{
+    return (
+        res.json({message: 'hello world'})
+    )
+})
 
 export default routes
